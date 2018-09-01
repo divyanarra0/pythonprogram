@@ -4,4 +4,4 @@ if num>1:
    	if(num%i)==0:
 	  print "no"
    else:
-	print "yes"
+	 print "yes"
