@@ -1,3 +1,3 @@
-num=int(input())
+Num=int(input())
 for i in range(1,6):
-	print(num*i)
+	print(Num*i)
