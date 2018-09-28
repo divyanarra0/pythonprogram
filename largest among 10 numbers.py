@@ -4,4 +4,4 @@ def max_num_in_list( list ):
         if a > max:
             max = a
     return max
-print(max_num_in_list([5,4,3,2,1,7,6,10,8,9]))
+print(max_num_in_list([1,1,1,1,1,1,1,1,1,1]))
