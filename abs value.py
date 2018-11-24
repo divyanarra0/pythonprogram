@@ -1,7 +1,7 @@
 #include <stdio.h>
- 
+
 int main(void)
- 
+	
 {
 	int s,p,r,q,a1,a2,t,n1,n2;
 	scanf("%d%d",&s,&p);
@@ -23,4 +23,3 @@ int main(void)
 		printf("%d %d",n1,n2);
 	}
 }	
- 
