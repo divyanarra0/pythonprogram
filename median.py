@@ -1,5 +1,5 @@
 l = int(raw_input())
-number = [1,2,3]
+number = [1,2,3,4,5]
 number .sort()
 l = len(number)
 if (l  % 2 == 0):
