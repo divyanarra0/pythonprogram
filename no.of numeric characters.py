@@ -4,5 +4,5 @@ count2=0
 for i in string:
 	if(i.isdigit()):
 		count1=count1+1
-print("")
+print("")  
 print(count1)
