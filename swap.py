@@ -1,5 +1,5 @@
-x=37
-y=73
+x=12
+y=23
 temp=x
 x=y
 y=temp
