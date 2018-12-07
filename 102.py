@@ -7,10 +7,6 @@ def divide(dividend, divisor):
         dividend -= divisor 
         quotient += 1
     return sign * quotient 
-a = 10
-b = 2
+a = 1
+b = 1
 print(divide(a, b)) 
-a = 10
-b = 3
-print(divide(a, b)) 
- 
