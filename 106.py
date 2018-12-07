@@ -4,6 +4,6 @@ def findK(n, k):
         return (2 * (k - half)) 
     else: 
         return (2 * k - 1) 
-n = 5
-k = 3
+n = 4
+k = 2
 print(findK(n, k)) 
