@@ -1,5 +1,6 @@
 def Celsius_to_Kelvin(C): 
-    return (C + 273) 
-C = 21
+    return (C + 291) 
+C = 3
 print( Celsius_to_Kelvin(C)) 
+                       
                       
