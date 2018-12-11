@@ -30,9 +30,9 @@ def isMultipleOf13(n):
     return isMultipleOf13(abs(odd_count - even_count)) 
   
 # Program to test function isMultipleOf13  
-num = 26
+num = 5
 if (isMultipleOf13(num)):  
-    print('no') 
-else: 
     print('yes') 
+else: 
+    print('no') 
   
