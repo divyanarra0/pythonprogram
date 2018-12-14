@@ -3,4 +3,4 @@ list=[int(x) for x in raw_input().split()]
 if a1 and b1 in list:
     print "yes"
 else:
-    print "No"
+    print "no"
