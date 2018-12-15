@@ -1,9 +1,9 @@
-n,m=map(int,raw_input().split())
-if n>m:
-    c=n-m
+n11,m11=map(int,raw_input().split())
+if n11>m11:
+    s=n11-m11
 else:
-    c=m-n
-if c%2==0:
+    s=m11-n11
+if s%2==0:
     print "even"
 else:
     print "odd"
