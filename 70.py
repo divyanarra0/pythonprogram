@@ -1,2 +1,2 @@
-r= int(raw_input())
-print(r * 2)
+p11= int(raw_input())
+print(p11 * 2)
