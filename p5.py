@@ -9,4 +9,4 @@ class py_solution1:
                 int_val += rom_val[s[i]]
         return int_val
 
-print(py_solution1().roman_to_int('VI'))
+print(py_solution1().roman_to_int('IX'))
