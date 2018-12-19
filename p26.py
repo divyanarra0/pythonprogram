@@ -1,4 +1,4 @@
-input_string  ='aabxxy '
+input_string  ='aab xxy '
 output_string = [] 
 space_flag = False # Flag to check if spaces have occured 
   
