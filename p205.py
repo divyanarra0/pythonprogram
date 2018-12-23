@@ -1,5 +1,5 @@
-test = "HeLlo"
- 
+test = "Maleficient"
+
 def to_alternating_case(string):
     result = ''
     for word in string:
@@ -8,5 +8,5 @@ def to_alternating_case(string):
         else:
             result += word.upper()
     return result
- 
+
 print to_alternating_case(test)
