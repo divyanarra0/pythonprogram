@@ -5,4 +5,4 @@ def Check():
                 print ('That is an invalid hex value.')
         print('That is a valid hex value.')
         return Check
-print "yes"
+print "no"
