@@ -3,6 +3,6 @@ flag = 0
 if(test_list == sorted(test_list)): 
     flag = 1 
 if (flag) : 
-    print ("Yes") 
+    print ("yes") 
 else : 
-    print ("No") 
+    print ("no") 
