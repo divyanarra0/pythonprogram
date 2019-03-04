@@ -1,2 +1,2 @@
-str=raw_input()
-print(len(str))
+str111=raw_input()
+print(len(str111))
