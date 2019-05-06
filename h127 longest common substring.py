@@ -10,4 +10,5 @@ def longestSubstringFinder(string1, string2):
                 if (len(match) > len(answer)): answer = match
                 match = ""
     return answer
-print longestSubstringFinder("sundar", "sunmateer")
+print longestSubstringFinder("vishal", "visthaa")
+
