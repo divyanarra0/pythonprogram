@@ -15,6 +15,7 @@ def mostFrequent(arr, n):
 		max_count = curr_count 
 		res = arr[n - 1] 
 	return res 
-arr = [15,5,-20,-20,-45] 
+arr = [4,3,3,5] 
 n = len(arr) 
 print(mostFrequent(arr, n)) 
+
