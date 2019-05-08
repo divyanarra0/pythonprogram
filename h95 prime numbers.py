@@ -10,5 +10,5 @@ def printPrime(n):
         if isPrime(i): 
             print(i), 
 if __name__ == "__main__" : 
-    n = 10
+    n = 100
     printPrime(n) 
